@@ -1,6 +1,6 @@
 # Login Screen
 
-<img src="./img/logo.jpg" alt="exemplo imagem" width="600px">
+<img src="./img/logo.jpg" alt="exemplo imagem" width="350px">
 
 > Resultado do Projeto tela de Login
 
